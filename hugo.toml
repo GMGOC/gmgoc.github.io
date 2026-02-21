@@ -1,4 +1,50 @@
 baseURL = 'https://gmgoc.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
-theme = 'ananke'
+languageCode = 'en-GB'
+title = 'Gwent MG Owners Club'
+theme = 'dot-org-hugo-theme'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "Gwent MG Owners Club — a friendly group of MG enthusiasts in South Wales"
+  show_search = false
+  custom_css = ["css/custom.css"]
+
+[params.social_links]
+  facebook = "https://www.facebook.com/groups/361716657894284"
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menus.main]]
+  name = "Meetings"
+  url = "/meetings/"
+  weight = 20
+
+[[menus.main]]
+  name = "Join"
+  url = "/join/"
+  weight = 30
+
+[[menus.main]]
+  name = "Calendar"
+  url = "/calendar/"
+  weight = 40
+
+[[menus.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
+
+[[menus.main]]
+  name = "Members"
+  url = "/members/"
+  weight = 60
+
+[[menus.main]]
+  name = "Gallery"
+  url = "/gallery/"
+  weight = 70
