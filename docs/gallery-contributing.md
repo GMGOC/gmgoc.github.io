@@ -46,7 +46,7 @@ description: "A short description of this photo collection"
 By default, the first photo alphabetically is used as the album thumbnail on the gallery page. To choose a specific cover image, add a `cover` line to the frontmatter:
 
 ```yaml
-cover: "images/photo-005.jpg"
+cover: "images/photo-003.jpg"
 ```
 
 ---
@@ -108,7 +108,6 @@ content/gallery/club-photos/
     photo-002.jpg
     photo-003.jpg
     photo-004.jpg
-    photo-005.jpg
 ```
 
 You can copy that folder as a starting point for a new album.
