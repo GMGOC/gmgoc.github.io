@@ -18,27 +18,55 @@
 # Please keep events in rough date order to make this file easy to scan.
 
 
+
 - title: "GMGOC Meeting"
-  date: "2026-07-20"
+  date: "2026-11-17"
+  location: "Philanthropic Inn"
+
+- title: "GMGOC Meeting"
+  date: "2026-10-20"
+  location: "Philanthropic Inn"
+
+- title: "GMGOC Meeting"
+  date: "2026-09-15"
+  location: "Philanthropic Inn"
+
+- title: "GMGOC Meeting"
+  date: "2026-08-18"
+  location: "Philanthropic Inn"
+
+- title: "GMGOC Meeting"
+  date: "2026-07-21"
+  location: "Philanthropic Inn"
+ 
+- title: "GMGOC Meeting"
+  date: "2026-06-16"
   location: "Philanthropic Inn"
   
 - title: "ClassicCars at the Quins"
   date: "2026-05-31"
   location: "Cardiff Quins RFC, The Diamond Ground, Forest Fam Road, Whitchurch, Cardiff CF14 7JH"
   description: "Further info awaited"
-
-- title: "GMGOC Meeting"
-  date: "2026-06-15"
-  location: "Philanthropic Inn"
+  club organiser: "Dave"
 
 - title: "Vale of Glamorgan Classic Car Show"
   date: "2026-05-25"
   location: "Sully"
-  description: "Dinas Powys Rotary annual show on the bank holiday monday. Register at www.valeofglamorganclassiccarshow.net "
+  description: "Dinas Powys Rotary annual show on the bank holiday monday. Register at www.valeofglamorganclassiccarshow.net"
+  club organiser: "Tim"
 
 - title: "GMGOC Meeting"
-  date: "2026-05-18"
+  date: "2026-05-19"
   location: "Philanthropic Inn"
+
+- title: " Drive It Day"
+  date: "2026-04-26"
+  location: "Route TBC"
+  club organiser: "Stephen P for Plaques"
+
+- title: " Chepstow Classic Car Show Plus Auto Jumble & Collector's Fair"
+  date: "2026-04-26"
+  club organiser: "Rhys"
   
 - title: "GMGOC Meeting"
   date: "2026-04-21"
