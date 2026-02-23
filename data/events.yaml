@@ -1,0 +1,57 @@
+# Gwent MG Owners Club — Events Data
+#
+# HOW TO ADD AN EVENT
+# -------------------
+# Copy one of the entries below and fill in the details.
+#
+# REQUIRED fields:
+#   title:  The name of the event (e.g. "Monthly Meeting")
+#   date:   Date in YYYY-MM-DD format (e.g. 2026-03-01)
+#
+# OPTIONAL fields:
+#   location:    Where the event is held (venue name, town, etc.)
+#   description: A short sentence or two describing the event.
+#
+# Events with a past date will automatically appear in the "Past Events" section.
+# Events with a future date appear under "Upcoming Events".
+#
+# Please keep events in rough date order to make this file easy to scan.
+
+- title: "Monthly Meeting"
+  date: "2025-11-04"
+  location: "Cwmbran Stadium Social Club, Cwmbran"
+  description: "Our regular monthly meeting. All members and prospective members welcome. Coffee and chat from 7:30 pm."
+
+- title: "Christmas Run to Raglan Castle"
+  date: "2025-12-14"
+  location: "Raglan Castle, Raglan, Monmouthshire"
+  description: "A festive drive through the Usk Valley ending at the ruins of Raglan Castle. Convoy departs from the stadium car park at 10 am."
+
+- title: "New Year's Day Run"
+  date: "2026-01-01"
+  location: "Abergavenny Market Hall, Abergavenny"
+  description: "Blow away the cobwebs with a scenic run through the Brecon Beacons. Light refreshments at the market hall afterwards."
+
+- title: "Monthly Meeting"
+  date: "2026-02-03"
+  location: "Cwmbran Stadium Social Club, Cwmbran"
+
+- title: "Monthly Meeting"
+  date: "2026-03-03"
+  location: "Cwmbran Stadium Social Club, Cwmbran"
+  description: "March meeting — agenda includes planning for the spring calendar. All welcome."
+
+- title: "Spring Run — Wye Valley"
+  date: "2026-04-19"
+  location: "Tintern Abbey, Tintern, Monmouthshire"
+  description: "A classic route through the Wye Valley taking in Tintern Abbey and the Devil's Pulpit viewpoint. Lunch stop in Monmouth."
+
+- title: "Annual Picnic and Concours d'Élégance"
+  date: "2026-07-12"
+  location: "Tredegar House, Newport"
+  description: "Our flagship summer event. Bring your MG for the informal concours display on the house lawns. Picnic hampers encouraged."
+
+- title: "Annual General Meeting"
+  date: "2026-10-06"
+  location: "Cwmbran Stadium Social Club, Cwmbran"
+  description: "Annual General Meeting and election of officers for the coming year."

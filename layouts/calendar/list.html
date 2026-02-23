@@ -1,0 +1,78 @@
+{{ define "main" }}
+<div class="page-content">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<p>{{ . | safeHTML }}</p>{{ end }}
+
+  {{/* Build upcoming and past event slices.
+       hugo.Data.events are YAML strings — must use time.AsTime before comparing with now.
+       The `where` function cannot filter YAML date strings by comparison, so we use
+       range-and-append to split events into two slices after sorting. */}}
+
+  {{ $now := now }}
+  {{ $allEvents := sort hugo.Data.events "date" "asc" }}
+
+  {{ $upcoming := slice }}
+  {{ $past := slice }}
+  {{ range $allEvents }}
+    {{ if (time.AsTime .date).After $now }}
+      {{ $upcoming = $upcoming | append . }}
+    {{ else }}
+      {{ $past = $past | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Upcoming events — sorted soonest first (already asc from sort above) */}}
+  <section class="events events--upcoming">
+    <h2>Upcoming Events</h2>
+    {{ if $upcoming }}
+      <ul class="event-list">
+        {{ range $upcoming }}
+          <li class="event-card">
+            <time class="event-card__date" datetime="{{ .date }}">
+              {{ (time.AsTime .date) | time.Format ":date_long" }}
+            </time>
+            <div class="event-card__body">
+              <h3 class="event-card__title">{{ .title }}</h3>
+              {{ with .location }}
+                <p class="event-card__location">{{ . }}</p>
+              {{ end }}
+              {{ with .description }}
+                <p class="event-card__desc">{{ . }}</p>
+              {{ end }}
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p>No upcoming events are listed at the moment. Check our
+        <a href="https://www.facebook.com/groups/361716657894284">Facebook group</a>
+        for the latest news.</p>
+    {{ end }}
+  </section>
+
+  {{/* Past events — most recent first (reverse the ascending-sorted slice) */}}
+  {{ if $past }}
+    <section class="events events--past">
+      <h2>Past Events</h2>
+      <ul class="event-list event-list--past">
+        {{ range ($past | collections.Reverse) }}
+          <li class="event-card event-card--past">
+            <time class="event-card__date" datetime="{{ .date }}">
+              {{ (time.AsTime .date) | time.Format ":date_medium" }}
+            </time>
+            <div class="event-card__body">
+              <h3 class="event-card__title">{{ .title }}</h3>
+              {{ with .location }}
+                <p class="event-card__location">{{ . }}</p>
+              {{ end }}
+              {{ with .description }}
+                <p class="event-card__desc">{{ . }}</p>
+              {{ end }}
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+</div>
+{{ end }}
