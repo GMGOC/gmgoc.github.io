@@ -1,7 +1,7 @@
 baseURL = 'https://gmgoc.github.io/'
 languageCode = 'en-GB'
 title = 'Gwent MG Owners Club'
-theme = 'dot-org-hugo-theme'
+theme = ["dot-org-hugo-theme", "hugo-shortcode-gallery"]
 
 [markup.goldmark.renderer]
   unsafe = true
