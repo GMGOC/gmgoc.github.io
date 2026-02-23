@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="page-content">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div>{{ . | safeHTML }}</div>{{ end }}
+
+  {{ if .Pages }}
+    <div class="album-grid">
+      {{ range .Pages }}
+        <a class="album-card" href="{{ .Permalink }}">
+          {{/* Cover image: use front-matter cover param if set, else first image in images/ */}}
+          {{ $cover := "" }}
+          {{ with .Params.cover }}
+            {{ $cover = $.Page.Resources.GetMatch . }}
+          {{ end }}
+          {{ if not $cover }}
+            {{ $images := .Resources.Match "images/*.{jpg,jpeg,png,webp}" }}
+            {{ if $images }}
+              {{ $cover = index $images 0 }}
+            {{ end }}
+          {{ end }}
+          {{ if $cover }}
+            {{ $thumb := $cover.Fill "400x300 q85 webp Smart" }}
+            <img src="{{ $thumb.RelPermalink }}"
+                 width="{{ $thumb.Width }}"
+                 height="{{ $thumb.Height }}"
+                 alt="{{ .Title }}"
+                 loading="lazy">
+          {{ else }}
+            <div class="album-card__placeholder" aria-hidden="true"></div>
+          {{ end }}
+          <span class="album-title">{{ .Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p>No albums yet. Check back soon — photos from club events will appear here.</p>
+  {{ end }}
+</div>
+{{ end }}
