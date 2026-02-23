@@ -17,15 +17,36 @@
 #
 # Please keep events in rough date order to make this file easy to scan.
 
+
+- title: "GMGOC Meeting"
+  date: "2026-07-20"
+  location: "Philanthropic Inn"
+  
 - title: "ClassicCars at the Quins"
   date: "2026-05-31"
   location: "Cardiff Quins RFC, The Diamond Ground, Forest Fam Road, Whitchurch, Cardiff CF14 7JH"
   description: "Further info awaited"
 
+- title: "GMGOC Meeting"
+  date: "2026-06-15"
+  location: "Philanthropic Inn"
+
 - title: "Vale of Glamorgan Classic Car Show"
   date: "2026-05-25"
   location: "Sully"
   description: "Dinas Powys Rotary annual show on the bank holiday monday. Register at www.valeofglamorganclassiccarshow.net "
+
+- title: "GMGOC Meeting"
+  date: "2026-05-18"
+  location: "Philanthropic Inn"
+  
+- title: "GMGOC Meeting"
+  date: "2026-04-21"
+  location: "Philanthropic Inn"
+
+- title: "GMGOC Meeting"
+  date: "2026-03-17"
+  location: "Philanthropic Inn"
 
 - title: "Cars and Coffee"
   date: "2026-02-28"
