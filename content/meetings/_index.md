@@ -3,8 +3,6 @@ title: "Meetings"
 description: "Find out when and where the Gwent MG Owners Club meets. All are welcome to come along."
 ---
 
-# Meetings
-
 We meet regularly throughout the year — it's one of the best parts of being in the club. A chance to catch up with fellow MG enthusiasts, hear what everyone's been up to with their cars, and generally have a good time.
 
 ## When We Meet

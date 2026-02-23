@@ -3,8 +3,6 @@ title: "Contact Us"
 description: "Get in touch with the Gwent MG Owners Club. We'd love to hear from you."
 ---
 
-# Contact Us
-
 Got a question? Want to find out more about the club? We're a friendly bunch and always happy to hear from fellow MG enthusiasts.
 
 <!-- PLACEHOLDER: Replace with actual contact email address and/or phone number from the live site -->

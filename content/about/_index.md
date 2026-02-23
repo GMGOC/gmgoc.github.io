@@ -3,8 +3,6 @@ title: "About the Club"
 description: "Learn about the Gwent MG Owners Club — our history, our members, and what we get up to."
 ---
 
-# About the Club
-
 The Gwent MG Owners Club is a friendly, welcoming club for MG enthusiasts across Gwent and South East Wales. We bring together owners and fans of all MG models — from the classic MGA and MGB to the more modern MGF, MGTF, and everything in between.
 
 <!-- PLACEHOLDER: Replace with actual club history and background from the live site -->

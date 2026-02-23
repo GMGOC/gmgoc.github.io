@@ -3,8 +3,6 @@ title: "How to Join"
 description: "Find out how to join the Gwent MG Owners Club. All MG enthusiasts are welcome."
 ---
 
-# How to Join
-
 Thinking about joining? Brilliant — we'd love to have you. The Gwent MG Owners Club is open to all MG owners and enthusiasts, whatever model you drive (or aspire to own).
 
 ## Membership
