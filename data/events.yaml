@@ -17,41 +17,107 @@
 #
 # Please keep events in rough date order to make this file easy to scan.
 
-- title: "Monthly Meeting"
-  date: "2025-11-04"
-  location: "Cwmbran Stadium Social Club, Cwmbran"
-  description: "Our regular monthly meeting. All members and prospective members welcome. Coffee and chat from 7:30 pm."
+- title: "ClassicCars at the Quins"
+  date: "2026-05-31"
+  location: "Cardiff Quins RFC, The Diamond Ground, Forest Fam Road, Whitchurch, Cardiff CF14 7JH"
+  description: "Further info awaited"
 
-- title: "Christmas Run to Raglan Castle"
-  date: "2025-12-14"
-  location: "Raglan Castle, Raglan, Monmouthshire"
-  description: "A festive drive through the Usk Valley ending at the ruins of Raglan Castle. Convoy departs from the stadium car park at 10 am."
+- title: "Vale of Glamorgan Classic Car Show"
+  date: "2026-05-25"
+  location: "Sully"
+  description: "Dinas Powys Rotary annual show on the bank holiday monday. Register at www.valeofglamorganclassiccarshow.net "
 
-- title: "New Year's Day Run"
-  date: "2026-01-01"
-  location: "Abergavenny Market Hall, Abergavenny"
-  description: "Blow away the cobwebs with a scenic run through the Brecon Beacons. Light refreshments at the market hall afterwards."
+- title: "Cars and Coffee"
+  date: "2026-02-28"
+  location: "Eastern Business Park, St Mellons, Cardiff CF3 5EA"
+  description: "Further info awaited"
 
-- title: "Monthly Meeting"
-  date: "2026-02-03"
-  location: "Cwmbran Stadium Social Club, Cwmbran"
 
-- title: "Monthly Meeting"
-  date: "2026-03-03"
-  location: "Cwmbran Stadium Social Club, Cwmbran"
-  description: "March meeting — agenda includes planning for the spring calendar. All welcome."
+- title: "Royal Mint Tour and Lunch"
+  date: "2025-09-14"
+ 
+- title: "GMGOC Meeting"
+  date: "2025-08-19"
 
-- title: "Spring Run — Wye Valley"
-  date: "2026-04-19"
-  location: "Tintern Abbey, Tintern, Monmouthshire"
-  description: "A classic route through the Wye Valley taking in Tintern Abbey and the Devil's Pulpit viewpoint. Lunch stop in Monmouth."
+- title: "Bridgewater Classic & Country Fair"
+  date: "2025-08-09/10"
+  
+- title: "Much Marcle Steam Rally"
+  date: "2025-07-20"
+ 
+- title: "GMGOC Meeting"
+  date: "2025-07-15”
 
-- title: "Annual Picnic and Concours d'Élégance"
-  date: "2026-07-12"
-  location: "Tredegar House, Newport"
-  description: "Our flagship summer event. Bring your MG for the informal concours display on the house lawns. Picnic hampers encouraged."
+- title: "Margam Park Vintage Display"
+  date: "2025-07-12 – 2025-07-13"
 
-- title: "Annual General Meeting"
-  date: "2026-10-06"
-  location: "Cwmbran Stadium Social Club, Cwmbran"
-  description: "Annual General Meeting and election of officers for the coming year."
+- title: "Classics in Cardiff"
+  date: "2025-06-29"
+
+- title: "Fish and Chip Run"
+  date: "2025-06-25"
+  location: "Rest Bay, Porthcawl"
+
+- title: "GMGOC Meeting"
+  date: "2025-06-17"
+  
+- title: "Monmouthshire Classic and Vintage Vehicle Show"
+  date: "2025-06-14"
+  location: "Hogs Head"
+
+- title: "Montgomery Break"
+  date: "2025-06-11 – 2025-06-13"
+
+- title: "Highnam Court Classic Cars, Trucks & Gardens"
+  date: "2025-06-08"
+
+- title: "Club Picnic "
+  date: "2025-05-11"
+  location: "Caldicot Castle"
+  description: "South Wales Morris Minor Owner’s Club – Official Club Event"
+
+- title: "GMGOC Meeting"
+  date: "2025-05-20"
+   
+- title: "Border Counties Steam & Country Show"
+  date: "2025-05-04"
+  location: "Monmouth"
+
+- title: "Drive it Day)"
+  date: "2025-04-27"
+  location: "Llandovery"
+
+- title: "Classic Car Display"
+  date: "2025-04-27"
+  location: "Cardiff City Centre"
+
+- title: "Coleford Carnival of Transport"
+  date: "2025-04-21"
+
+  - title: "Easter Brunch"
+  date: "2025-04-20"
+  location: "The Old Barn"
+  
+- title: "Sunday Lunch & Tour"
+  date: "2025-04-06"
+  location: "Weston Cider Mill"
+
+- title: "GMGOC Meeting"
+  date: "2025-03-18"
+
+- title: "Sunday Run"
+  date: "2025-03-09"
+  location: "Dyffryn Gardens / Baffle Haus"
+
+- title: " MG & Triumph Spares Day"
+  date: "2025-02-09"
+  location: " Stoneliegh "
+
+- title: " GMGOC Meeting "
+  date: "2025-02-18"
+
+- title: " GMGOC Meeting "
+  date: "2025-01-21"
+
+
+  
