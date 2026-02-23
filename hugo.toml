@@ -10,6 +10,8 @@ theme = 'dot-org-hugo-theme'
   description = "Gwent MG Owners Club — a friendly group of MG enthusiasts in South Wales"
   show_search = false
   custom_css = ["css/custom.css"]
+  logo_on_white = "/img/gmgoc-logo-b.png"
+  logo_on_black = "/img/gmgoc-logo-w.png"
 
 [params.social_links]
   facebook = "https://www.facebook.com/groups/361716657894284"
