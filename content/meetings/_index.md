@@ -7,17 +7,13 @@ description: "Find out when and where the Gwent MG Owners Club meets. All are we
 
 We meet regularly throughout the year — it's one of the best parts of being in the club. A chance to catch up with fellow MG enthusiasts, hear what everyone's been up to with their cars, and generally have a good time.
 
-<!-- PLACEHOLDER: Replace with actual meeting schedule, venue, and details from the live site -->
-
 ## When We Meet
 
-We hold regular meetings throughout the year. Check our [Facebook group](https://www.facebook.com/groups/361716657894284) for the current schedule and any updates.
+We hold regular meetings throughout the year. Check our [calendar](/calendar/) for the current schedule and any updates.
 
 ## Venue
 
-<!-- PLACEHOLDER: Replace with actual venue name and address -->
-
-Our meetings are held at a local venue in the Gwent area. Details of the exact location can be found on our [Facebook group](https://www.facebook.com/groups/361716657894284) or by [getting in touch](/contact/).
+Our meetings are held at a local venue in the Gwent area. Details of the exact location can be found on our [calendar](/calendar/) or by [getting in touch](/contact/).
 
 ## What to Expect
 
