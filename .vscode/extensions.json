@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "redhat.vscode-yaml",
-    "yzhang.markdown-all-in-one"
+    "redhat.vscode-yaml"
   ]
 }
