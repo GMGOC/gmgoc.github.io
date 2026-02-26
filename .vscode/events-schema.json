@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GMGOC Events",
+  "description": "List of club events for the Gwent MG Owners Club website",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["title", "date"],
+    "additionalProperties": false,
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "The name of the event (e.g. \"Monthly Meeting\")"
+      },
+      "date": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+        "description": "Date in YYYY-MM-DD format (e.g. 2026-03-01)"
+      },
+      "location": {
+        "type": "string",
+        "description": "Where the event is held (venue name, town, etc.)"
+      },
+      "description": {
+        "type": "string",
+        "description": "A short sentence or two describing the event"
+      },
+      "club organiser": {
+        "type": "string",
+        "description": "Name of the club member organising this event"
+      }
+    }
+  }
+}
