@@ -9,7 +9,7 @@ Thinking about joining? Brilliant — we’d love to welcome you. The Gwent MG O
 
 <!-- PLACEHOLDER: Replace with actual membership fee and details from the live site -->
 
-Membership gives you access to all club events, runs, and meetings throughout the year. We keep things very affordable — the club is run by enthusiasts, not accountants. Our current membership fees (at time of writing) are £15 per year, or £20 for a family per year. 
+Membership gives you access to all club events, runs, and meetings throughout the year. We keep things very affordable — the club is run by enthusiasts, not accountants. Our current membership fees are £15 per year, or £20 for a family per year. 
 
 ## How to Sign Up
 
