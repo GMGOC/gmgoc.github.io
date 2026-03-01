@@ -11,8 +11,6 @@ Thinking about joining? Brilliant — we’d love to welcome you. The Gwent MG O
 
 Membership gives you access to all club events, runs, and meetings throughout the year. We keep things very affordable — the club is run by enthusiasts, not accountants. Our current membership fees (at time of writing) are £15 per year, or £20 for a family per year. 
 
-For the current membership fee and details, please [get in touch](/contact/) or pop your head in at one of our [meetings](/meetings/).
-
 ## How to Sign Up
 
 The easiest way to join is simply to come along to one of our [meetings](/meetings/). Have a chat, see if you like the look of us (we’re pretty likeable), and sign up. We will even give you a few months to “try before you buy” to see if the Gwent MG Owners Club is the club for you.
