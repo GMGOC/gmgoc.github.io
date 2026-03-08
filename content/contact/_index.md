@@ -9,7 +9,7 @@ Got a question? Want to find out more about the club? We're a friendly bunch and
 
 ## Get in Touch
 
-**Email:** <!-- PLACEHOLDER: club email address -->
+**Email:** <!-- PLACEHOLDER: club email address --> secretarygmgoc@gmail.com 
 
 **Facebook:** The quickest way to get a response is often through our [Facebook group](https://www.facebook.com/groups/361716657894284) — we're active there and you'll get an answer from the community quickly.
 
