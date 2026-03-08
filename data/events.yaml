@@ -43,27 +43,24 @@
 - title: "ClassicCars at the Quins"
   date: "2026-05-31"
   location: "Cardiff Quins RFC, The Diamond Ground, Forest Fam Road, Whitchurch, Cardiff CF14 7JH"
-  description: "Further info awaited"
-  club organiser: "Dave"
+  description: "Further info awaited - club organiser is Dave"
 
 - title: "Vale of Glamorgan Classic Car Show"
   date: "2026-05-25"
   location: "Sully"
-  description: "Dinas Powys Rotary annual show on the bank holiday monday. Register at www.valeofglamorganclassiccarshow.net"
-  club organiser: "Tim"
+  description: "Dinas Powys Rotary annual show on the bank holiday monday. Register at www.valeofglamorganclassiccarshow.net - club organiser is Tim"
 
 - title: "GMGOC Meeting"
   date: "2026-05-19"
   location: "Philanthropic Inn"
 
-- title: " Drive It Day"
+- title: "Drive It Day"
   date: "2026-04-26"
-  location: "Route TBC"
-  club organiser: "Stephen P for Plaques"
+  location: "Route TBC - Speak to Stephen P for Plaques"
 
-- title: " Chepstow Classic Car Show Plus Auto Jumble & Collector's Fair"
+- title: "Chepstow Classic Car Show Plus Auto Jumble & Collector's Fair"
   date: "2026-04-26"
-  club organiser: "Rhys"
+  description: "club organiser is Rhys"
   
 - title: "GMGOC Meeting"
   date: "2026-04-21"
@@ -72,8 +69,7 @@
 - title: "Hanley Farm Meet"
   date: "2026-04-05"
   location: "Hanley Farm"
-  description: "Easter Sunday Run Out"
-  club organiser: "Paul B"
+  description: "Easter Sunday Run Out - club organiser Paul B"
 
 - title: "GMGOC Meeting"
   date: "2026-03-17"
